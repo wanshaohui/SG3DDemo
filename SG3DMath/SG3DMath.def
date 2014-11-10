@@ -1,0 +1,6 @@
+; SG3DMath.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SG3DMath"
+
+EXPORTS
+    ; Explicit exports can go here
